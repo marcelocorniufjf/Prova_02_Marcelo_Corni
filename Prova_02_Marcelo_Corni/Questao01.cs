@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Prova_02_Marcelo_Corni
 {
-    public class ParticaoSucessiva
+    public class Questao01
     {
         public int Mediana(List<int> lista, int inicio, int fim, int k)
         {
